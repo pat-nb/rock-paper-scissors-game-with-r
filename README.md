@@ -1,2 +1,3 @@
-# rock-paper-scissors-game-with-r
-Rock-paper-scissors game with R programming
+# Rock-paper-scissors Game with R Programming
+
+R programming project in DataRockie - Data Science Bootcamp
